@@ -1,0 +1,10 @@
+numpy
+pandas
+scipy
+jupyter
+scikit-learn
+scikit-image
+pillow
+openpyxl
+plotly
+pulp

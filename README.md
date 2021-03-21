@@ -47,7 +47,7 @@ We check the consistency of evaluation scores in the field of retinal vessel seg
 
 3. Start a Jupyter notebook server
 ```bash
-> jupyter server
+> jupyter notebook
 ```
 
 4. Load and execute the notebooks.
